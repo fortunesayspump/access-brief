@@ -1,0 +1,13 @@
+{
+ "id":"natural-history", "venue":"National Museum of Natural History", "place":"Smithsonian Institution · Washington, D.C.", "checked":"2026-11-17", "source":"https://naturalhistory.si.edu/visit/accessibility", "contact":"+1 202 633 3611",
+ "facts":[
+ {"category":"Arrival","title":"Step-free entry","state":"published","detail":"The museum reports stair-free access at every entrance and exit."},
+ {"category":"Arrival","title":"Parking","state":"published","detail":"The Smithsonian does not provide parking. Check its accessibility map for designated spaces nearby."},
+ {"category":"Inside","title":"Moving between floors","state":"published","detail":"The museum reports elevator access to public floors and wheelchair access to all exhibitions."},
+ {"category":"Inside","title":"Borrowing a wheelchair","state":"published","detail":"Manual wheelchairs are free to borrow, first come, first served, for indoor use. Ask at the Evans Gallery Information Desk."},
+ {"category":"Inside","title":"Hearing support","state":"published","detail":"Exhibition videos have open captions. Induction loops are at the Rotunda Information Desk and Worldwide Theater."},
+ {"category":"Plan ahead","title":"Quieter visit","state":"published","detail":"The museum suggests Monday to Wednesday for a quieter visit, with exceptions for holidays and events."},
+ {"category":"Plan ahead","title":"Lift status today","state":"unknown","detail":"Not checked in this guide. Confirm current operation before travelling."},
+ {"category":"Plan ahead","title":"Door widths and turning space","state":"unknown","detail":"Measurements were not captured for this guide. Ask the museum about your specific route."}
+ ]
+}

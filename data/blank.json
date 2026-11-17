@@ -1,0 +1,58 @@
+{
+  "id": "blank",
+  "venue": "",
+  "place": "",
+  "checked": "",
+  "source": "",
+  "contact": "",
+  "facts": [
+    {
+      "category": "Arrival",
+      "title": "Step-free entry",
+      "state": "unknown",
+      "detail": "Not provided. Confirm with the venue before relying on this information."
+    },
+    {
+      "category": "Arrival",
+      "title": "Parking",
+      "state": "unknown",
+      "detail": "Not provided. Confirm with the venue before relying on this information."
+    },
+    {
+      "category": "Inside",
+      "title": "Moving between floors",
+      "state": "unknown",
+      "detail": "Not provided. Confirm with the venue before relying on this information."
+    },
+    {
+      "category": "Inside",
+      "title": "Borrowing a wheelchair",
+      "state": "unknown",
+      "detail": "Not provided. Confirm with the venue before relying on this information."
+    },
+    {
+      "category": "Inside",
+      "title": "Hearing support",
+      "state": "unknown",
+      "detail": "Not provided. Confirm with the venue before relying on this information."
+    },
+    {
+      "category": "Plan ahead",
+      "title": "Quieter visit",
+      "state": "unknown",
+      "detail": "Not provided. Confirm with the venue before relying on this information."
+    },
+    {
+      "category": "Plan ahead",
+      "title": "Lift status today",
+      "state": "unknown",
+      "detail": "Not provided. Confirm with the venue before relying on this information."
+    },
+    {
+      "category": "Plan ahead",
+      "title": "Door widths and turning space",
+      "state": "unknown",
+      "detail": "Not provided. Confirm with the venue before relying on this information."
+    }
+  ]
+}
